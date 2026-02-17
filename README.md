@@ -11,3 +11,5 @@ sudo apt-get install nginx
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
+
+file edited to check push from ssh
